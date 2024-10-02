@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b90fdb74.css",
+    "main.js": "/static/js/main.925612cf.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/SUSHI SHIRO.otf": "/static/media/SUSHI SHIRO.eb55568c6ac31207adef.otf",
+    "static/media/Kamikaze3DGradient.ttf": "/static/media/Kamikaze3DGradient.233857091abde27c58ad.ttf",
+    "static/media/Ikigai Book white left.webp": "/static/media/Ikigai Book white left.cd8d93bb675bec472eda.webp",
+    "static/media/background_left.webp": "/static/media/background_left.cd8d93bb675bec472eda.webp",
+    "static/media/Ikigai Book white right.webp": "/static/media/Ikigai Book white right.3e2a839a915bac5e54cf.webp",
+    "static/media/background_right.webp": "/static/media/background_right.3e2a839a915bac5e54cf.webp",
+    "static/media/Ichithawa.ttf": "/static/media/Ichithawa.ab0cd295733d9dbde391.ttf",
+    "static/media/loadingPage1.webp": "/static/media/loadingPage1.8b20c594759e8bc1eaf6.webp",
+    "static/media/loadingPage2.webp": "/static/media/loadingPage2.b66e7d02fcf9d875bddb.webp",
+    "static/media/roadmapleft.webp": "/static/media/roadmapleft.b1c203d0c4709b24a396.webp",
+    "static/media/ChelseaMarket-Regular.ttf": "/static/media/ChelseaMarket-Regular.d3bab0b3e8a42eddaa71.ttf",
+    "static/media/roadmapright.webp": "/static/media/roadmapright.676feaf8354532836c87.webp",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.d3e693d37014a62198fc.svg",
+    "static/media/ikigai book asset_mobile.webp": "/static/media/ikigai book asset_mobile.a8a5aab0a5af227f1dea.webp",
+    "static/media/1.webp": "/static/media/1.0cc3ea75bafe24de590c.webp",
+    "static/media/background1.webp": "/static/media/background1.7a1e7097ea3813cc4c9e.webp",
+    "static/media/mobileFirstPage.webp": "/static/media/mobileFirstPage.9503e3d42e2150712bde.webp",
+    "static/media/Ikigai Book Asset without Mark.webp": "/static/media/Ikigai Book Asset without Mark.5e889339f1994362cd20.webp",
+    "static/media/KaoriGelBold.ttf": "/static/media/KaoriGelBold.8ba83a7528e777cc4a8a.ttf",
+    "static/media/ArchitectsDaughter-Regular.ttf": "/static/media/ArchitectsDaughter-Regular.97e4b635030c7d8a85d5.ttf",
+    "static/media/SamuraiBlast.ttf": "/static/media/SamuraiBlast.c0172a4cbdca0632f829.ttf",
+    "index.html": "/index.html",
+    "main.b90fdb74.css.map": "/static/css/main.b90fdb74.css.map",
+    "main.925612cf.js.map": "/static/js/main.925612cf.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90fdb74.css",
+    "static/js/main.925612cf.js"
+  ]
+}
